@@ -91,9 +91,6 @@ This project contains:
 
 (alternatively, do all with `make all`)
 
-## Walkthrough Video
-Here is the link to my [demo video](https://youtu.be/mOJkvNA_WrI)
-
 
 
 
